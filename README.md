@@ -6,6 +6,8 @@
 - Provide diet suggestions
 - CI/CD ready with tests, Docker, GitHub Actions
 
+# Minor update for PR demonstration
+
 ## Run locally
 ```
 npm install
